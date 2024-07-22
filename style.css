@@ -1,0 +1,18 @@
+body {
+background-color: yellow;
+color:blue;
+padding: 5px;
+font-family: Arial
+}
+
+#image {
+float: center;
+}
+
+#description {
+float: center;
+}
+
+#reviews {
+clear: both;
+}
